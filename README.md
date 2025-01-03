@@ -1,0 +1,1 @@
+#This is a guide for using Pandas library using multiple methods and python to modify, search, clear, filter and assigning the new data to a new df, also we will use for and while loops to search for info inside the df
